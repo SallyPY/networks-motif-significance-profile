@@ -69,7 +69,7 @@ Generating the significance profile is simply a matter of taking the vector of t
 </ul>
 
 <h2>Graphs</h2>
-Visual results and graphs can be found in the .ipynb files. A slide presentation is also available.
+Visual results and graphs can be found in the main .ipynb files. A slide presentation is also available.
 
 
 
